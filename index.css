@@ -1,0 +1,17 @@
+body{
+    background: whitesmoke;
+    color: #222;
+    width: 800px;
+    margin: 200px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+}
+
+p{
+    font-size: 36px;
+    line-height: 1.8;
+}
